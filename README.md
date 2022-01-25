@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 <p align="center">
   <img alt="Portfolio" src="portifolio.png" width="100%">
